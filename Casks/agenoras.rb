@@ -1,6 +1,6 @@
 cask "agenoras" do
-  version "0.1.9"
-  sha256 "0aa9af1ad9856ca23b06bfa27866354d9507dfd3725cb08c11c412dd41bbb9ea"
+  version "0.1.10"
+  sha256 "18a9335f7494dacdcb4544ed831a45a9e11021759fff2ec9471b2f385604de0f"
 
   url "https://github.com/ciegolink/agenoras/releases/download/v#{version}/Agenoras.dmg"
   name "Agenoras"
